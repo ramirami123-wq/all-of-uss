@@ -147,56 +147,44 @@
     "scrolling-promotion": {
       "type": "scrolling-promotion",
       "blocks": {
-        "announcement-0": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "FREE SHIPPING on all orders over $100",
-            "text_size": 16,
-            "link": ""
-          }
-        },
-        "announcement-1": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "EASY RETURNS 30-day postage paid returns",
-            "text_size": 16,
-            "link": ""
-          }
-        },
         "announcement-3": {
           "type": "announcement",
           "settings": {
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "10% OFF your first order | Use code: FIRST10",
+            "text": "FREE DELIVERY FOR ORDERS ABOVE 30$",
             "text_size": 16,
+            "link": ""
+          }
+        },
+        "announcement_fKfmte": {
+          "type": "announcement",
+          "settings": {
+            "icon": "truck",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "",
+            "text_size": 20,
             "link": ""
           }
         }
       },
       "block_order": [
-        "announcement-0",
-        "announcement-1",
-        "announcement-3"
+        "announcement-3",
+        "announcement_fKfmte"
       ],
       "settings": {
         "direction": "left",
         "speed": 1.6,
         "show_divider": false,
         "use_custom_colors": true,
-        "colors_icon": "#f1ff34",
+        "colors_icon": "#fc7680",
         "colors_text": "#212326",
-        "colors_background": "#f2f2f2",
+        "colors_background": "#fc7680",
         "gradient_background": "",
-        "padding_top": 28,
-        "padding_bottom": 28
+        "padding_top": 12,
+        "padding_bottom": 12
       }
     },
     "guarantees": {
