@@ -47,6 +47,7 @@
         "announcement_KJfYM8",
         "announcement_qkTfdR"
       ],
+      "disabled": true,
       "settings": {
         "only_homepage": false,
         "layout": "marquee",
