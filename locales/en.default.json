@@ -542,7 +542,8 @@
     "checkout": {
       "contact": {
         "email_label": "Email - البريد الالكتروني",
-        "email_placeholder": "Email - البريد الالكتروني"
+        "email_placeholder": "Email - البريد الالكتروني",
+        "country_label": "Country/Region - البلد"
       }
     }
   }
