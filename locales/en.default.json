@@ -543,7 +543,8 @@
       "contact": {
         "email_label": "Email - البريد الالكتروني",
         "email_placeholder": "Email - البريد الالكتروني",
-        "country_label": "Country/Region - البلد"
+        "country_label": "Country/Region - البلد",
+        "optional_first_name_label": "First Name - الاسم"
       }
     }
   }
