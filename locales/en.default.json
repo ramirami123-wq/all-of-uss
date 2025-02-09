@@ -548,7 +548,8 @@
         "last_name_label": "Last Name - العائلة",
         "address_title": "Address - العنوان",
         "optional_address2_label": "Apartment, suite, etc. (optional) -  (شقة، جناح، الخ (اختياري",
-        "city_label": "City - المدينة"
+        "city_label": "City - المدينة",
+        "phone_label": "Phone - رقم الهاتف"
       }
     }
   }
