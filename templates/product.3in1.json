@@ -149,7 +149,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "FREE DELIVERY FOR ORDERS ABOVE 30$",
+            "text": "FREE DELIVERY ALL OVER LEBANON",
             "text_size": 16,
             "link": ""
           }
@@ -175,9 +175,9 @@
         "speed": 1.6,
         "show_divider": false,
         "use_custom_colors": true,
-        "colors_icon": "#fc7680",
+        "colors_icon": "#0198ad",
         "colors_text": "#212326",
-        "colors_background": "#fc7680",
+        "colors_background": "#0198ad",
         "gradient_background": "",
         "padding_top": 12,
         "padding_bottom": 12
