@@ -57,8 +57,8 @@
         "direction": "left",
         "speed": 1.6,
         "colors_text": "#1a1b18",
-        "colors_background": "#ff3646",
-        "gradient_background": "linear-gradient(133deg, rgba(255, 54, 70, 1) 11%, rgba(255, 54, 70, 1) 49%, rgba(255, 114, 125, 1) 87%)",
+        "colors_background": "#0198ad",
+        "gradient_background": "linear-gradient(133deg, rgba(NaN, NaN, NaN, 1) 11%, rgba(255, 54, 70, 1) 49%, rgba(255, 114, 125, 1) 87%)",
         "padding_top": 0,
         "padding_bottom": 0
       }
@@ -66,7 +66,8 @@
     "header": {
       "type": "header",
       "settings": {
-        "logo_height": 50,
+        "logo": "shopify://shop_images/TASAWAQ-removebg-preview.png",
+        "logo_height": 80,
         "mobile_logo_height": 44,
         "logo_position": "top-center",
         "menu": "main-menu",
@@ -80,7 +81,7 @@
         "enable_language_selector": true,
         "enable_sticky_header": true,
         "show_sticky_header_scroll_up": false,
-        "enable_transparent_header": true,
+        "enable_transparent_header": false,
         "enable_transparent_header_collection": true,
         "enable_transparent_header_custom": "",
         "show_transparent_header_border": false,
