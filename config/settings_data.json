@@ -59,10 +59,19 @@
     "show_shipping_calculator": false,
     "disable_view_cart": false,
     "show_free_shipping_message": true,
-    "free_shipping_minimum_amount": "30",
+    "free_shipping_minimum_amount": "",
     "cart_recommendations_enabled": true,
     "cart_recommendations_heading": "You may also like",
     "cart_recommendations_show_vendor": false,
+    "cart_recommendations_products": [
+      "ayatul-kursi-cuff",
+      "breathing-nasal-strip-boost-oxygen-intake",
+      "3-in-1-rotatable-wireless-charger",
+      "invisible-face-lifter-tape-160pcs"
+    ],
+    "empty_cart_collections": [
+      "frontpage"
+    ],
     "predictive_search_show_vendor": true,
     "gift_card_logo_height": 70,
     "sections": {
