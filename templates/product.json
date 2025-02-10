@@ -175,9 +175,9 @@
         "speed": 1.6,
         "show_divider": false,
         "use_custom_colors": true,
-        "colors_icon": "#fc7680",
+        "colors_icon": "#0198ad",
         "colors_text": "#212326",
-        "colors_background": "#fc7680",
+        "colors_background": "#0198ad",
         "gradient_background": "",
         "padding_top": 12,
         "padding_bottom": 12
@@ -216,7 +216,7 @@
           "settings": {
             "heading": "Product Reviews",
             "layout": "masonry",
-            "star_color": "#ff3646",
+            "star_color": "#0198ad",
             "when_no_reviews": "show_from_related"
           }
         }
