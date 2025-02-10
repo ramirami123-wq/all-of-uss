@@ -216,7 +216,7 @@
           "settings": {
             "heading": "Product Reviews",
             "layout": "masonry",
-            "star_color": "#ff3646",
+            "star_color": "#0198ad",
             "when_no_reviews": "show_from_related"
           }
         }
